@@ -1,12 +1,14 @@
 {
-  "today": [
-    ""
-  ],
-  "weekly": [
-    "openmiccomedyposterweekly.png",
-  "sundaytsocialweeklymenuboard.jpg","Weeklyederly1.jpg","weeklyelderly2.jpg" 
-  ],
-  "monthly": [
-    "singlesminglepostermonthly.jpeg","revisedbraindamage.jpeg"
-  ]
+    "today":  [
+                  ""
+              ],
+    "weekly":  [
+                   "openmiccomedyposterweekly.png",
+                   "sundaytsocialweeklymenuboard.jpg",
+                   "Weeklyederly1.jpg",
+                   "weeklyelderly2.jpg"
+               ],
+    "monthly":  [
+                    "singlesminglepostermonthly.jpeg"
+                ]
 }
